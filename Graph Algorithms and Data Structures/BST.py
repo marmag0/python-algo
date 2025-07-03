@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#! /usr/bin/env python3
 
 class BST:
     #constructor for the Binary Search Tree
@@ -128,6 +128,8 @@ def main():
     bst.in_order_traversal()
     print()
     print()
+    
+    return 0
 
 if __name__ == "__main__":
     main()
